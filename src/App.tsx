@@ -1,7 +1,6 @@
-import React from "react";
 import LofiPlayer from "./LofiPlayer";
 
-function App(): JSX.Element {
+function App() {
   return <LofiPlayer />;
 }
 
